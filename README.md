@@ -1,6 +1,6 @@
 ## Modeling of the Human Development Index (HDI) and Gross Regional Domestic Product (GRDP) in East Java in 2022 Using Simultaneous Equation Modeling
 
-![Econometrics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OgtOmJ_sbWNaY5HBS1zR24vkvZIyYkoCj27ldb4ZEw&s) <br>
+![Econometrics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3OgtOmJ_sbWNaY5HBS1zR24vkvZIyYkoCj27ldb4ZEw&s)
 
 ### Introduction
 This project is conducted as part of the course "Econometrics". Econometric studies play a crucial role in understanding the intricate relationships within regional economies, often relying on secondary data obtained from authoritative sources like the Badan Pusat Statistik (BPS). This study delves into the economic dynamics of the East Java Province, Indonesia, utilizing data encompassing the Gross Regional Domestic Product (GRDP), Human Development Index (HDI), labor force participation, and educational attainment across its 34 regencies and cities. Employing a simultaneous equation model, this research aims to elucidate the interplay between these key indicators and offer insights into policy implications for regional development strategies.
