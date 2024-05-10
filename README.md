@@ -12,8 +12,6 @@ The methodology employed in this study hinges upon a simultaneous equation model
 1. The simultaneous equation model reveals significant influences of Human Development Index (HDI) and labor force participation on Gross Regional Domestic Product (GRDP), indicating the multidimensional nature of economic growth in East Java Province.
 2. Conversely, the analysis underscores the importance of GRDP and educational attainment in shaping HDI, emphasizing the interconnectedness between economic advancement and human development outcomes.
 3. Despite achieving a commendable $R^2$ value of 0.66628, the GRDP equation exhibits violations of certain assumptions of the simultaneous equation model, suggesting potential misspecification or omitted variable bias.
-4. The study suggests avenues for further research, recommending the incorporation of additional variables such as regional government expenditure, local revenue, intergovernmental transfers, and revenue-sharing mechanisms to enhance the model's explanatory power and robustness.
-5. These findings provide valuable insights for policymakers, aiding in the formulation of targeted development strategies aimed at fostering sustainable economic growth and human development within East Java Province.
 
 ### Uploaded File Description
 - `jatim.csv`: Raw dataset containing information about BPS East Java data.
